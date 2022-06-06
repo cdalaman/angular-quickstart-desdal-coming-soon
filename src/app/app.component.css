@@ -3,10 +3,6 @@
   width: 100%;
 }
 
-div {
-  background-color: black;
-}
-
 .resource-list {
   font-family: Helvetica, Arial, sans-serif;
   font-size: larger;
@@ -33,7 +29,6 @@ footer {
   width: 100%;
   position: fixed;
   text-align: center;
-  background-color: black;
 }
 
 footer img {
