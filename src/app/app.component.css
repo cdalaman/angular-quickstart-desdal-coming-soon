@@ -12,8 +12,8 @@
 
 .resource-list ul {
     text-align: center;
-    margin: 0 auto;
     line-height: 2;
+    width: 100%;
 }
 
 .resource-list a {
