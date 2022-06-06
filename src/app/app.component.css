@@ -9,6 +9,7 @@
   color: white;
   padding: 75px;
   width: 100%;
+  position: fixed;
   text-align: center;
 }
 
