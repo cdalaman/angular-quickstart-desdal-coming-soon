@@ -6,6 +6,7 @@
 .resource-list {
   font-family: Helvetica, Arial, sans-serif;
   font-size: larger;
+  color: red;
   padding: 10px;
   text-align: center;
 }
@@ -23,6 +24,7 @@
 footer {
   bottom: 100px;
   font-family: Helvetica, Arial, sans-serif;
+  color: red;
   margin: 0 auto;
   width: 100%;
   position: fixed;
